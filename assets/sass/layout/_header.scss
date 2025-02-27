@@ -15,10 +15,10 @@
 			'filter #{_duration(article)} ease-in-out',
 			'opacity #{_duration(article)} ease-in-out',
 		));
-		background-image: -moz-radial-gradient(rgba(0,0,0,0.25) 25%, rgba(0,0,0,0) 55%);
-		background-image: -webkit-radial-gradient(rgba(0,0,0,0.25) 25%, rgba(0,0,0,0) 55%);
-		background-image: -ms-radial-gradient(rgba(0,0,0,0.25) 25%, rgba(0,0,0,0) 55%);
-		background-image: radial-gradient(rgba(0,0,0,0.25) 25%, rgba(0,0,0,0) 55%);
+		background-image: -moz-radial-gradient(hsla(22, 92%, 47%, 0.251) 25%, #f01414e7 55%);
+		background-image: -webkit-radial-gradient(hsla(24, 81%, 51%, 0.719) 25%, #f30a0ad8 55%);
+		background-image: -ms-radial-gradient(hwb(19 17% 28% / 0.966) 25%, #eb0f0fe5 55%);
+		background-image: radial-gradient(rgba(224, 97, 12, 0.774) 25%, rgba(0, 0, 0, 0) 55%);
 		max-width: 100%;
 		text-align: center;
 
